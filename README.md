@@ -25,9 +25,9 @@
 
 * jika muncul tampilan **git version**,berarti Git sudah **berhasil di install** dan bisa di **gunakan** Langkah pertama kita harus **mengkonfirmasikan user name** dan **email di git**, dengan mengetikkan *syntax* berikut : <br>
 
-`git commit --global user.name "masukkan nama anda" <br>
+`git commit --global user.name "masukkan nama anda"` <br>
 
-`git commit --global user.email "masukkan email anda" <br>
+`git commit --global user.email "masukkan email anda"` <br>
 
 ![Git Config](poto/gitnamaemailbaru.png) <br>
 
