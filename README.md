@@ -31,3 +31,22 @@
 
 ![Git Config](poto/gitnamaemailbaru.png) <br>
 
+* Buat akun di **GitHub**, seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
+
+* Jika akun  **GitHub** sudah selesai dibuat dan di verifikasi, proses selanjutnya silahkan buat Repository seperti gambar dibawah ini : <br>
+**Penjelasan**
+
+> * `Repository Name : (silahkan isi nama repository yang diinginkan seperti contoh saya ingin membuat repository Latihan VCS 03)` <br>
+
+> * `Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)` <br>
+
+> * `Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)` <br>
+
+> * `Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda` <br>
+
+> * `Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.` <br>
+
+> * `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan` <br>
+
+![Nama Repository](poto/githubrepisotory.png) <br>
+
