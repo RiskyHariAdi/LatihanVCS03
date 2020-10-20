@@ -16,3 +16,5 @@
 
 
 ![installing](poto/installing.png) <br>
+
+* setelah installasi selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan **versi**, dengan mengetik *syntax* berikut : <br>
