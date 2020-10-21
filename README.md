@@ -75,3 +75,19 @@
 * Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : **click here** <br>
 
 ![README](poto/namavisual.png) <br>
+
+
+
+* Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File** -> **Save** <br>
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini : <br>
+
+`git add`
+
+![GitAdd](poto/gitadd.png) <br>
+
+* Setelah selesai melakukan *git add*. langkah berikutnya kita akan melakukan commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : <br>
+
+`git commit "Update README.md"` <br>
+
+![UpdateREADME](poto/commitnama.png) <br>
