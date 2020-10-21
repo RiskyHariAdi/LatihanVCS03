@@ -50,3 +50,6 @@
 
 ![Nama Repository](poto/githubrepisotory.png) <br>
 
+* Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini : <br>
+
+![Akun File Baru](poto/hasilfile.png) <br>
