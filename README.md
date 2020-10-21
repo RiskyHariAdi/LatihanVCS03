@@ -91,3 +91,12 @@
 `git commit "Update README.md"` <br>
 
 ![UpdateREADME](poto/commitnama.png) <br>
+
+* *Git commit* telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
+
+`git push` <br>
+
+![GitPush](poto/gitpush.png) <br>
+
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote. <br>
+
