@@ -68,7 +68,7 @@
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : <br>
 
-`cd Latihan18/` <br>
+`cd LatihanVCS03` <br>
 
 ![CD](poto/cd.png) <br>
 
