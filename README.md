@@ -100,4 +100,4 @@
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote. <br>
 
-![Repisotory](poto/kelar.png) <br>
+![Repisotory](poto/kelarr.png) <br>
