@@ -64,4 +64,4 @@
 
 *  *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut : <br>
 
-`git clone [URL] pada contohnya, saya akan memasukan git clone`(https://github.com/RiskyHariAdi/LatihanVCS03.git)
+`git clone [URL] pada contohnya, saya akan memasukan git clone`https://github.com/RiskyHariAdi/LatihanVCS03.git
