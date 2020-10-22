@@ -1,3 +1,6 @@
+![Logo](poto/logo.png) <br>
+
+
 # LatihanVCS03
 
 **Nama :RiskyHariAdi** <br>
